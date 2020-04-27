@@ -1,0 +1,13 @@
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.exe
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.deps.json
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.json
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.runtimeconfig.dev.json
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\bin\Debug\netcoreapp3.1\Sudoku.pdb
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csprojAssemblyReference.cache
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.csproj.CoreCompileInputs.cache
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfoInputs.cache
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.AssemblyInfo.cs
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.dll
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.pdb
+C:\Users\Fenton\Documents\GitHub\CSharp-Playground\windowtests\Sudoku\obj\Debug\netcoreapp3.1\Sudoku.genruntimeconfig.cache
